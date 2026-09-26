@@ -6,3 +6,4 @@ gunicorn
 protobuf
 pyTelegramBotAPI
 python-telegram-bot
+pycryptodome
