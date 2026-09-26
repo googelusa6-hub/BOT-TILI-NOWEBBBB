@@ -4,3 +4,4 @@ werkzeug
 psutil
 gunicorn
 protobuf
+pyTelegramBotAPI
