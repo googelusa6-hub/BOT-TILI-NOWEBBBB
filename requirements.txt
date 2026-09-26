@@ -5,3 +5,4 @@ psutil
 gunicorn
 protobuf
 pyTelegramBotAPI
+python-telegram-bot
